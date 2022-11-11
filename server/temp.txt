@@ -1,0 +1,1 @@
+mongodb+srv://shashank:<password>@loginmernthapa.sukjvwg.mongodb.net/?retryWrites=true&w=majority
